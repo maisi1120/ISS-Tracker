@@ -2,7 +2,7 @@
 
 
 # Overview
-This project is built in Python and use the `requests` module to make HTTP requests, which provides an easy-to-use API for interacting with web services and handling HTTP-related tasks.
+This project is developed using Python and leverages the `requests` module for making HTTP requests, offering an API for interacting with web services. Additionally, it utilizes the `smtplib` module to facilitate the sending of emails.
 
 # Instructions
 Users can receive an email notification when the International Space Station (ISS) is passing overhead by comparing the ISS's current location with the users' specified location data.
@@ -14,6 +14,7 @@ Users can receive an email notification when the International Space Station (IS
 # Dependencies:
 1. Python v3.x is required.
 2. `requests` module is also required.
+3. `smtplib` module is also required.
 
 # Contact
 Maisi Lin - [Linkedin](https://www.linkedin.com/in/maisi-lin-b66503228/)
