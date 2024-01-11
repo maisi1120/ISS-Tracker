@@ -1,4 +1,4 @@
-![l-intro-1679803232](https://github.com/maisi1120/photo/assets/156170308/77f321cc-d4f4-4aba-a8ba-47504a364e85)
+![l-intro-1679803232](https://github.com/maisi1120/photo/assets/156170308/386c07e0-53b5-4b74-95b2-f354ea233bf6)
 
 
 # Overview
